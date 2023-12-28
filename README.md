@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarabdullah2259
 - 👀 I’m interested in HTML & CSS
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Bootstrap 
 - 📫 How to reach me ?  linkedin user name -> omar-abdullah-073a4a225
 
 <!---
